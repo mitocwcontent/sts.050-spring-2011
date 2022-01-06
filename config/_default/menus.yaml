@@ -1,0 +1,36 @@
+leftnav:
+- identifier: 5b94ec60-da2f-7184-3c3d-b22653025645
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 60910745-348b-4284-6dd5-a17958912748
+  name: Readings
+  url: /pages/readings
+  weight: 20
+- identifier: 8cc46c0d-df13-3162-fa26-412e09e30abd
+  name: Assignments
+  url: /pages/assignments/
+  weight: 30
+- identifier: f66afd83-8bcc-cf43-2a13-f0969c8a3603
+  name: Guidelines for Preparing Scholarly Essays
+  parent: 8cc46c0d-df13-3162-fa26-412e09e30abd
+  url: /pages/assignments/essay_guidelines
+  weight: 40
+- identifier: e5d434df-d5b5-8372-948a-4ecbeb373157
+  name: First Writing Assignment
+  parent: 8cc46c0d-df13-3162-fa26-412e09e30abd
+  url: /pages/assignments/first-writing-assignment
+  weight: 50
+- identifier: 05c1fd60-8e04-0cb3-37c5-70ff934b18bb
+  name: Final Writing Assignment
+  parent: 8cc46c0d-df13-3162-fa26-412e09e30abd
+  url: /pages/assignments/final-writing-assignment
+  weight: 60
+- identifier: e351d8b4-8dbd-93f1-3243-ebc37c3e7266
+  name: Lecture Videos
+  url: /pages/lecture-videos
+  weight: 70
+- identifier: e326fcc4-1ee0-4d0f-7ee5-4dc9dca1f41c
+  name: Lecture Videos
+  url: /pages/lecture-videos-1
+  weight: 80
