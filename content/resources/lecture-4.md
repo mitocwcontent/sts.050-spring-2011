@@ -1,0 +1,15 @@
+---
+content_type: resource
+description: ''
+file: null
+resourcetype: Video
+title: 'Session 4: Harvard, MIT, and Building a New Campus'
+uid: a3ab9d03-0f69-6fc7-1774-78f3ba414ae9
+video_files:
+  archive_url: http://www.archive.org/download/MITSTS.050S11/MITSTS_050S11lec04_300k.mp4
+  video_captions_file: /courses/sts-050-the-history-of-mit-spring-2011/e988b77dc8b553d887608b559622b237_drFOEAuLspU.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/drFOEAuLspU/default.jpg
+  video_transcript_file: /courses/sts-050-the-history-of-mit-spring-2011/9a20f8c5c6f15b178241ffb94e8b820d_drFOEAuLspU.pdf
+video_metadata:
+  youtube_id: drFOEAuLspU
+---
